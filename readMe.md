@@ -1,3 +1,3 @@
-# Arduuino based plant monitor
+# Arduino based plant monitor
 
 To monitor soil humidity and water the plant accordingly.
